@@ -1,5 +1,5 @@
 # DS-SanberCode
-> Documentation of Data Science Python Class from [SanberCode Course](sanbercode.com).
+> Documentation of Data Science Python Class from <a href='https://sanbercode.com/'>SanberCode Course</a>
 
 ## Table of contents
 * [General info](#general-info)
@@ -10,7 +10,7 @@
 * [Author](#author)
 
 ## General info
-Documentation of Data Science Python Class from [SanberCode Course](sanbercode.com). This course covered basic technical skill to learn data science. For example, understand data science, analyze data exploration, and apply basic machine learning.
+Documentation of Data Science Python Class from <a href='https://sanbercode.com/'>SanberCode Course</a>. This course covered basic technical skill to learn data science. For example, understand data science, analyze data exploration, and apply basic machine learning.
 
 ## Course content
 ### Week 01 - Python Introduction 
@@ -47,16 +47,16 @@ Documentation of Data Science Python Class from [SanberCode Course](sanbercode.c
 ![Week 04 - Exploratory Data Analysis](./img/W04_kmeans-clustering.png)
 
 ## Technologies
-* [Python](www.python.org/downloads) - version 3.9.7
-* [Jupyter Notebook](jupyter.org/install)
+* <a href='https://www.python.org/downloads/'>Python</a> - version 3.9.7
+* <a href='https://jupyter.org/install'>Jupyter Notebook</a>
 
 ## Library
-* [Matplotlib](pypi.org/project/matplotlib) - version 3.4.3
-* [Numpy](pypi.org/project/numpy) - version 1.20.2
-* [Pandas](pypi.org/project/pandas) - version 1.3.2
-* [Scikit-learn](pypi.org/project/scikit-learn) - version 0.24.2
-* [Scipy](pypi.org/project/scipy) - version 1.7.1
-* [Seaborn](pypi.org/project/seaborn) - version 0.11.2
+* <a href='https://pypi.org/project/matplotlib/'>Matplotlib</a> - version 3.4.3
+* <a href='https://pypi.org/project/numpy/'>Numpy</a> - version 1.20.2
+* <a href='https://pypi.org/project/pandas/'>Pandas</a> - version 1.3.2
+* <a href='https://pypi.org/project/scikit-learn/'>Scikit-learn</a> - version 0.24.2
+* <a href='https://pypi.org/project/scipy/'>Scipy</a> - version 1.7.1
+* <a href='https://pypi.org/project/seaborn/'>Seaborn</a> - version 0.11.2
 
 ## Status
 Project is: _in progress_
