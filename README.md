@@ -59,7 +59,7 @@ Documentation of Data Science Python Class from <a href='https://sanbercode.com/
 * <a href='https://pypi.org/project/seaborn/'>Seaborn</a> - version 0.11.2
 
 ## Status
-Project is: _in progress_
+Project is: _completed_
 
 ## Author
 Benidictus Galih Mahar Putra
